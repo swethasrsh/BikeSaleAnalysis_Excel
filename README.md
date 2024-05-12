@@ -1,4 +1,4 @@
-# ExcelPortfolio
+# ExcelPortfolio-BikeSale Analysis
 **OverView**
 This Excel project analyzes a dataset containing information about customers, including demographics, income, education, occupation, and purchasing behavior regarding bicycles. The project focuses on data cleaning, summarization, analysis and dashboard creation using Excel functions and tools.
 
